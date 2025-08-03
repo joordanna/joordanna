@@ -4,7 +4,7 @@
 **`Analista de Dados em Formação`**
 
 
-Me chamo Jordana Andrade. Sou estudante de Sistemas de Informação, apaixonada por dados e tecnologia.  
+Me chamo Jordana Andrade. Sou estudante de Sistemas de Informação, encantada por dados e tecnologia.  
 Tenho formação técnica em Eletrotécnica pela EEEP e atualmente curso Sistemas de Informação.
 
 Aqui compartilho meus projetos e aprendizados em análise de dados e programação, incluindo códigos, ideias e até erros — porque aprender é parte do processo!
