@@ -82,13 +82,3 @@ Atualmente estou aprofundando:
 
 [LinkedIn](https://www.linkedin.com/in/jordana-andrade-1669292a5)
 
----
-
-### 📊 Estatísticas
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=joordanna&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=6" 
-  />
